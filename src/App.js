@@ -2,7 +2,7 @@ import React from "react";
 import CodeEditor from "./CodeEditor";
 import "./App.css";
   const goToGitHub = () => {
-    window.location.href = "https://github.com/Sanika365"; 
+    window.location.href = "https://github.com/Sanika365/react-code-editor"; 
   };
 function App() {
   return (
